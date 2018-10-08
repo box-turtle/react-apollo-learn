@@ -3,9 +3,18 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "apollo-boost": "0.1.16",
+    "apollo-link-context": "1.0.9",
+    "apollo-link-ws": "1.0.9",
+    "eslint-plugin-prettier": "3.0.0",
+    "graphql": "14.0.2",
     "react": "^16.5.2",
+    "react-apollo": "2.2.4",
     "react-dom": "^16.5.2",
-    "react-scripts": "2.0.3"
+    "react-router": "4.3.1",
+    "react-router-dom": "4.3.1",
+    "react-scripts": "2.0.3",
+    "subscriptions-transport-ws": "0.9.15"
   },
   "scripts": {
     "start": "react-scripts start",
